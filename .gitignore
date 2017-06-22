@@ -1,0 +1,12 @@
+.DS_Store
+.classpath
+.project
+.settings
+log/*
+target/*
+plugins/*
+*.log
+*.db
+bin/*
+build/*
+/application.properties
